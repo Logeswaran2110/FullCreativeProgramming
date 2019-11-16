@@ -35,6 +35,8 @@ public class StringBuilderMethod {
 		sb.deleteCharAt(6);
 		System.out.println(sb);  // logesh2110
 		
+		//commit 2
+		
 	}
 
 }
